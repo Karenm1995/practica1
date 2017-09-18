@@ -1,0 +1,30 @@
+{
+  "name": "karen",
+  "version": "1.0.0",
+  "description": "api-rest",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karenm1995/practica1.git"
+  },
+  "author": "Karen Montoya Gámez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Karenm1995/practica1/issues"
+  },
+  "homepage": "https://github.com/Karenm1995/practica1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.0",
+    "npm-start-command": "^0.2.0"
+  }
+}
